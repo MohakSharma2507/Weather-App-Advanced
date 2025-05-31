@@ -9,7 +9,7 @@ This advanced weather app builds on top of the initial assessment and focuses on
 
 ## Key Features
 
-### ✅ Full CRUD Implementation (Using SQLite + SQLAlchemy)
+### Full CRUD Implementation (Using SQLite + SQLAlchemy)
 
 - **Create:**  
   - When a user searches for weather in a location, the app stores the temperature, condition, location, and timestamp in a SQLite database.
@@ -24,12 +24,12 @@ This advanced weather app builds on top of the initial assessment and focuses on
 - **Delete:**  
   - Users can delete specific records directly from the history page.
 
-### ✅ Input Validation
+### Input Validation
 
 - Validates location by checking API response.
 - Ensures user doesn’t enter empty or malformed data.
 
-### ✅ API Integrations
+### API Integrations
 
 - **OpenWeatherMap API:**  
   Fetches real-time weather and 5-day forecast based on location.
