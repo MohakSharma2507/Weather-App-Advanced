@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/Users/mohaksharma/Documents/PM Accelerator/Weather app basics/.conda/bin/python3.11" "$0" "$@" #'''
+'''exec' "/Users/mohaksharma/Documents/PM Accelerator/Weather app Advanced copy/.conda/bin/python3.11" "$0" "$@" #'''
 # -*- coding: utf-8 -*-
 import re
 import sys

@@ -13,7 +13,7 @@
 # and add symbolic links to their hash values.
 
 my $dir = "";
-my $prefix = "/Users/mohaksharma/Documents/PM Accelerator/Weather app basics/.conda";
+my $prefix = "/Users/mohaksharma/Documents/PM Accelerator/Weather app Advanced copy/.conda";
 
 my $errorcount = 0;
 my $openssl = $ENV{OPENSSL} || "openssl";

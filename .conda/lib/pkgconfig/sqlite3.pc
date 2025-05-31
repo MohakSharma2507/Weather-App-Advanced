@@ -1,6 +1,6 @@
 # Package Information for pkg-config
 
-prefix=/Users/mohaksharma/Documents/PM Accelerator/Weather app basics/.conda
+prefix=/Users/mohaksharma/Documents/PM Accelerator/Weather app Advanced copy/.conda
 exec_prefix=${prefix}
 libdir=${exec_prefix}/lib
 includedir=${prefix}/include

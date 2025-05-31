@@ -1,8 +1,8 @@
 # tcl pkg-config source file
 
-prefix=/Users/mohaksharma/Documents/PM Accelerator/Weather app basics/.conda
-exec_prefix=/Users/mohaksharma/Documents/PM Accelerator/Weather app basics/.conda
-libdir=/Users/mohaksharma/Documents/PM Accelerator/Weather app basics/.conda/lib
+prefix=/Users/mohaksharma/Documents/PM Accelerator/Weather app Advanced copy/.conda
+exec_prefix=/Users/mohaksharma/Documents/PM Accelerator/Weather app Advanced copy/.conda
+libdir=/Users/mohaksharma/Documents/PM Accelerator/Weather app Advanced copy/.conda/lib
 includedir=${prefix}/include
 libfile=libtcl8.6.dylib
 

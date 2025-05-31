@@ -1,3 +1,5 @@
 Flask
-python-dotenv
+Flask-SQLAlchemy
 requests
+python-dotenv
+google-api-python-client

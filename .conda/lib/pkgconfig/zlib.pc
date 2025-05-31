@@ -1,8 +1,8 @@
-prefix=/Users/mohaksharma/Documents/PM Accelerator/Weather app basics/.conda
-exec_prefix=/Users/mohaksharma/Documents/PM Accelerator/Weather app basics/.conda
-libdir=/Users/mohaksharma/Documents/PM Accelerator/Weather app basics/.conda/lib
-sharedlibdir=/Users/mohaksharma/Documents/PM Accelerator/Weather app basics/.conda/lib
-includedir=/Users/mohaksharma/Documents/PM Accelerator/Weather app basics/.conda/include
+prefix=/Users/mohaksharma/Documents/PM Accelerator/Weather app Advanced copy/.conda
+exec_prefix=/Users/mohaksharma/Documents/PM Accelerator/Weather app Advanced copy/.conda
+libdir=/Users/mohaksharma/Documents/PM Accelerator/Weather app Advanced copy/.conda/lib
+sharedlibdir=/Users/mohaksharma/Documents/PM Accelerator/Weather app Advanced copy/.conda/lib
+includedir=/Users/mohaksharma/Documents/PM Accelerator/Weather app Advanced copy/.conda/include
 
 Name: zlib
 Description: zlib compression library
